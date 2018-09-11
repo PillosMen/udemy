@@ -1,0 +1,63 @@
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'Gloria Hallelujah', cursive;
+	margin: 15px 0;
+	font-size: 20px;
+}
+
+section {
+  max-width: 40%;
+  margin: 10px;
+}
+
+img {
+	max-width: 100%;
+}
+
+aside {
+  max-width: 40%;
+  margin: 10px;
+}
+
+nav {
+	background: silver;
+}
+
+.menu {
+	color: #000;
+
+	background: silver;
+}
+
+.menu nav {
+	margin: 10px;
+	top: 10px;
+	padding-top: 10px;
+}
+
+nav a, nav a:visited  {
+	color: #fff;
+}
+
+nav a.seleccionar, a:hover {
+	color: #000;
+}
+
+header {
+	background: #fff;
+}
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+	padding-top: 50px;
+	color: #ccc;
+}
